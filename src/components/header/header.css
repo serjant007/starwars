@@ -1,0 +1,25 @@
+.logo {
+  font-size: 48px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.header__menu {
+  display: flex;
+  margin-left: 15%;
+  padding: 10px 20px;
+}
+
+.header__menu-item {
+  margin: 0 10%;
+  font-size: 24px;
+  color: #20c997;
+}
+
+.header__menu-item > a:hover {
+  color: #fff;
+}
