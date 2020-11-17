@@ -18,3 +18,13 @@
 .person-details .list-group-item .term {
   margin-right: 0.5rem;
 }
+
+.card-body {
+  padding: 0 20px;
+}
+
+.card-body__name {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 15px;
+}

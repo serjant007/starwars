@@ -1,6 +1,9 @@
 .logo {
   font-size: 48px;
 }
+.logo > a:hover {
+  text-decoration: none;
+}
 
 .header {
   display: flex;
